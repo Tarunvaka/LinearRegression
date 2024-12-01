@@ -33,4 +33,4 @@ This repository contains Python code for implementing Linear Regression, coverin
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linear-regression.git
+   git clone https://github.com/Tarunvaka/linear-regression.git
